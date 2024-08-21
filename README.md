@@ -1,5 +1,5 @@
-🎮 Proyecto Hilos Mario
-📝 Descripción
+# 🎮 Proyecto Hilos Mario
+## 📝 Descripción
 Este proyecto es una implementación del primer nivel del clásico juego de Mario Bros, desarrollado en Python utilizando hilos (threads). La simulación muestra a Mario y otros elementos del juego, como enemigos y obstáculos, todos ejecutándose de manera concurrente para lograr una visualización dinámica en la consola. 🎉
 
 🚀 Características
